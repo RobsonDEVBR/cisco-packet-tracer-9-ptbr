@@ -48,6 +48,7 @@ Siga estes passos simples para aplicar a tradução no seu computador:
 
 4. **Reinicie!**
    Feche o Packet Tracer e abra-o novamente. Pronto, o programa estará traduzido!
+## 🤝 Um pedido: Sintam-se livres para usar e mandar para seus colegas e grupos de faculdade/cursos! Peço apenas que, ao compartilharem o arquivo, mantenham os créditos e o link desta postagem original. Deu bastante trabalho automatizar isso e o reconhecimento ajuda muito!
 
 ##  Como o projeto foi feito
 
