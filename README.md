@@ -20,14 +20,18 @@ Sabemos que o estudo para as certificações oficiais da Cisco (CCNA, CCNP) exig
 **Exemplo na interface:** `Switch - Interruptor` ou `Routing - Roteamento`. 
 Assim, você usa a interface confortavelmente em português, mas continua assimilando o vocabulário das provas oficiais!
 
-## Como Instalar
+##  Como Instalar
 
 Siga estes passos simples para aplicar a tradução no seu computador:
 
 1. **Faça o Download**  
-   Baixe o arquivo [Portuguese_BR.ptl](Portuguese_BR.ptl) deste repositório (clique no arquivo e depois no botão de download "Raw").
+   Baixe o arquivo **[Traducao-Cisco-Packet-Tracer-9-PT-BR.zip](Traducao-Cisco-Packet-Tracer-9-PT-BR.zip)** deste repositório (clique no arquivo e depois no botão de download "Raw" ou no ícone de baixar).
+   
+2. **Extraia os arquivos**
+   Descompacte o arquivo `.zip` no seu computador. Você verá um arquivo chamado `Portuguese_BR.ptl` e um arquivo de instruções `LEIA-ME.txt`.
 
-2. **Copie para a pasta do Packet Tracer**  
+3. **Copie para a pasta do Packet Tracer**  
+   Copie o arquivo `Portuguese_BR.ptl` extraído.
    Vá até o diretório de instalação do Packet Tracer e cole o arquivo dentro da pasta `languages`.
    Geralmente o caminho padrão no Windows é:
    ```text
