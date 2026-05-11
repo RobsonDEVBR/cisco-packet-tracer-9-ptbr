@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Com o lançamento do Cisco Packet Tracer 9.0, milhares de novas frases e menus foram adicionados, deixando os antigos arquivos de tradução incompletos. Este repositório fornece um arquivo `.ptl` atualizado para traduzir o simulador para o Português.
 
@@ -20,7 +20,7 @@ Sabemos que o estudo para as certificações oficiais da Cisco (CCNA, CCNP) exig
 **Exemplo na interface:** `Switch - Interruptor` ou `Routing - Roteamento`. 
 Assim, você usa a interface confortavelmente em português, mas continua assimilando o vocabulário das provas oficiais!
 
-## 🚀 Como Instalar
+## Como Instalar
 
 Siga estes passos simples para aplicar a tradução no seu computador:
 
@@ -45,12 +45,12 @@ Siga estes passos simples para aplicar a tradução no seu computador:
 4. **Reinicie!**
    Feche o Packet Tracer e abra-o novamente. Pronto, o programa estará traduzido!
 
-## ⚙️ Como o projeto foi feito
+##  Como o projeto foi feito
 
 O projeto foi construído realizando engenharia reversa no pacote de linguagens oficial da Cisco através das ferramentas Qt (`lconvert` e `lrelease`). 
 Em seguida, foi desenvolvido um script em Python que cruzou os dados do modelo da versão 9.0 (`template.ts`) com mais de 10.300 traduções faltantes processadas via API em lote e formatadas no padrão duplo de idioma. 
 
-## 🤝 Como Contribuir (Fase de Testes)
+##  Como Contribuir (Fase de Testes)
 
 ⚠️ **Atenção:** Como esta tradução foi gerada de forma automatizada processando mais de 10.000 frases na API, ela atualmente se encontra em fase de **Testes/Beta**. É possível que algumas frases ou contextos de rede tenham ficado com uma tradução literal ou imprecisa.
 
